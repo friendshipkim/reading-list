@@ -17,7 +17,7 @@ last updated 9/10
 - [ ] [Be Your Own Teacher: Improve the Performance of Convolutional Neural Networks via Self Distillation](https://arxiv.org/pdf/1905.08094.pdf). Zhang et al. ICCV'19
 - [ ] **[Theoretical Analysis of Self-Training with Deep Networks on Unlabeled Data](https://arxiv.org/pdf/2010.03622.pdf). Wei et al. ICLR'21**
 - [ ] [When Does Label Smoothing Help?](https://papers.nips.cc/paper/2019/file/f1748d6b0fd9d439f71450117eba2725-Paper.pdf). Müller et al. NeurIPS'19
-- [ ] [Knowledge Distillation as Semiparametric Intference](https://arxiv.org/pdf/2104.09732.pdf). Dao et al. ICLR'21
+- [ ] [Knowledge Distillation as Semiparametric Inference](https://arxiv.org/pdf/2104.09732.pdf). Dao et al. ICLR'21
 - [ ] **[Understanding Knowledge Distillation in Non-autoregressive Machine Translation](https://openreview.net/pdf?id=BygFVAEKDH). Zhou et al. ICLR'20**
 
 
