@@ -6,7 +6,7 @@ last updated 9/10
 
 ### Understanding Knowledge Distillation
 
-- [ ] [Understanding and Improving Knowledge Distillation](https://arxiv.org/pdf/2002.03532.pdf). Tang et al. Preprint. 2021
+- [ ] **[Understanding and Improving Knowledge Distillation](https://arxiv.org/pdf/2002.03532.pdf). Tang et al. Preprint. 2021**
 - [ ] [Distilling the knowledge in a neural network](https://arxiv.org/pdf/1503.02531.pdf). Hinton et al. 2015
 - [ ] [Born-Again Neural Networks](https://arxiv.org/pdf/1805.04770.pdf). Furlanello et al. ICML'18
 - [ ] **[Towards Understanding Knowledge Distillation](https://arxiv.org/pdf/2105.13093.pdf). Phuong et al. ICML'19**
