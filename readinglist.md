@@ -1,6 +1,6 @@
 # Reading List
 
-last updated 9/10
+last updated 10/18
 
 
 
@@ -34,7 +34,7 @@ last updated 9/10
 
 ### Pruning for NLP
 
-- [ ] [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://arxiv.org/pdf/2005.07683.pdf), Sanh et al. NeurIPS'20
+- [ ] [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://arxiv.org/pdf/2005.07683.pdf). Sanh et al. NeurIPS'20
 - [ ] TBD
 
 
@@ -42,6 +42,13 @@ last updated 9/10
 ### Deep Generative Models for NLP
 
 - [ ] TBD
+
+### Etc.
+
+- [ ] [Harnessing Deep Neural Networks with Logic Rules](https://aclanthology.org/P16-1228.pdf). Hu et al. ACL'16
+- [ ] [Lossy Compression for Lossless Prediction](https://arxiv.org/pdf/2106.10800.pdf). Dubois et al. ICLR'21
+- [ ] [Legendre Memory Units: Continuous-Time Representation in Recurrent Neural Networks](https://papers.nips.cc/paper/2019/file/952285b9b7e7a1be5aa7849f32ffff05-Paper.pdf). Voelker et al. NeurIPS'19
+- [ ] [HiPPO: Recurrent Memory with Optimal Polynomial Projections](https://arxiv.org/pdf/2008.07669.pdf). Gu et al. NeurIPS'20
 
 
 
