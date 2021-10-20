@@ -6,10 +6,10 @@ last updated 10/18
 
 ### Understanding Knowledge Distillation
 
-- [ ] **[Understanding and Improving Knowledge Distillation](https://arxiv.org/pdf/2002.03532.pdf). Tang et al. Preprint. 2021**
+- [x] **[Understanding and Improving Knowledge Distillation](https://arxiv.org/pdf/2002.03532.pdf). Tang et al. Preprint. 2021**
 - [ ] [Distilling the knowledge in a neural network](https://arxiv.org/pdf/1503.02531.pdf). Hinton et al. 2015
 - [ ] [Born-Again Neural Networks](https://arxiv.org/pdf/1805.04770.pdf). Furlanello et al. ICML'18
-- [x] **[Towards Understanding Knowledge Distillation](https://arxiv.org/pdf/2105.13093.pdf). Phuong et al. ICML'19**
+- [ ] **[Towards Understanding Knowledge Distillation](https://arxiv.org/pdf/2105.13093.pdf). Phuong et al. ICML'19**
 - [ ] **[Self-Distillation Amplifies Regularization in Hilbert Space](https://arxiv.org/pdf/2002.05715.pdf). Mobahi et al. NeurIPS'20**
 - [ ] [Improved knowledge distillation via teacher assistant: Bridging the gap between student and teacher](https://arxiv.org/pdf/1902.03393.pdf). Mirzadeh et al. AAAI'20
 - [ ] [Explaining Knowledge Distillation by Quantifying the Knowledge](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Explaining_Knowledge_Distillation_by_Quantifying_the_Knowledge_CVPR_2020_paper.pdf). Cheng et al. CVPR'20
