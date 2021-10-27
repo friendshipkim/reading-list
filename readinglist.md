@@ -49,6 +49,7 @@ last updated 10/18
 - [ ] [Lossy Compression for Lossless Prediction](https://arxiv.org/pdf/2106.10800.pdf). Dubois et al. ICLR'21
 - [ ] [Legendre Memory Units: Continuous-Time Representation in Recurrent Neural Networks](https://papers.nips.cc/paper/2019/file/952285b9b7e7a1be5aa7849f32ffff05-Paper.pdf). Voelker et al. NeurIPS'19
 - [ ] [HiPPO: Recurrent Memory with Optimal Polynomial Projections](https://arxiv.org/pdf/2008.07669.pdf). Gu et al. NeurIPS'20
+- [x] [Masking as an Efficient Alternative to Finetuning for Pretrained Language Models](https://arxiv.org/pdf/2004.12406.pdf). Zhao et al. ACL'20
 
 
 
